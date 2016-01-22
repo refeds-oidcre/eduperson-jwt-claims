@@ -1,7 +1,8 @@
 # eduperson-jwt-claims
 
 This repo contains a draft specification for conveying
-[eduPerson](http://macedir.org/specs/eduperson)
+[eduPerson](http://macedir.org/specs/eduperson) and
+[SCHAC](https://wiki.refeds.org/display/STAN/SCHAC+Releases)
 attributes as
 [JSON Web Token](https://tools.ietf.org/html/rfc7519)
 Claims, for use with
