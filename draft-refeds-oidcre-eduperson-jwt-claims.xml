@@ -36,7 +36,7 @@
 <?rfc subcompact="no" ?>
 <!-- keep one blank line between list items -->
 <!-- end of list of popular I-D processing instructions -->
-<rfc category="info" docName="draft-ietf-xml2rfc-template-06" ipr="trust200902">
+<rfc category="info" docName="draft-refeds-oidcre-eduperson-jwt-claims-01" ipr="trust200902">
  <!-- category values: std, bcp, info, exp, and historic
     ipr values: trust200902, noModificationTrust200902, noDerivativesTrust200902,
        or pre5378Trust200902
@@ -49,41 +49,41 @@
    <!-- The abbreviated title is used in the page header - it is only necessary if the 
         full title is longer than 39 characters -->
 
-   <title abbrev="Abbreviated Title">Put Your Internet Draft Title
-   Here</title>
+   <title abbrev="eduPerson JWT Claims">Conveying eduPerson Attributes
+   as JSON Web Token (JWT) Claims</title>
 
    <!-- add 'role="editor"' below for the editors if appropriate -->
 
    <!-- Another author who claims to be an editor -->
 
-   <author fullname="Elwyn Davies" initials="E.B." role="editor"
-           surname="Davies">
-     <organization>Folly Consulting</organization>
+   <author fullname="Jim Basney" initials="J." role="editor"
+           surname="Basney">
+     <organization>University of Illinois</organization>
 
      <address>
        <postal>
-         <street></street>
+         <street>1205 West Clark Street</street>
 
          <!-- Reorder these if your country does things differently -->
 
-         <city>Soham</city>
+         <city>Urbana, IL</city>
 
          <region></region>
 
-         <code></code>
+         <code>61801</code>
 
-         <country>UK</country>
+         <country>USA</country>
        </postal>
 
-       <phone>+44 7889 488 335</phone>
+       <phone>+1 217 244 1954</phone>
 
-       <email>elwynd@dial.pipex.com</email>
+       <email>jbasney@illinois.edu</email>
 
        <!-- uri and facsimile elements may also be added -->
      </address>
    </author>
 
-   <date year="2010" />
+   <date year="2016" />
 
    <!-- If the month and year are both specified and are the current ones, xml2rfc will fill 
         in the current day for you. If only the current year is specified, xml2rfc will fill 
@@ -96,14 +96,14 @@
 
    <area>General</area>
 
-   <workgroup>Internet Engineering Task Force</workgroup>
+   <workgroup>REFEDS OpenID Connect for Research and Education Working Group</workgroup>
 
    <!-- WG name at the upperleft corner of the doc,
         IETF is fine for individual submissions.  
 	 If this element is not present, the default is "Network Working Group",
         which is used by the RFC Editor as a nod to the history of the IETF. -->
 
-   <keyword>template</keyword>
+   <keyword>eduperson</keyword>
 
    <!-- Keywords will be incorporated into HTML output
         files in a meta tag but they have no effect on text or nroff
