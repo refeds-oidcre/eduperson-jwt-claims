@@ -15,3 +15,5 @@ Join the [mailing list](https://lists.refeds.org/sympa/info/oidcre).
 and
 [pull requests](https://github.com/jbasney/eduperson-jwt-claims/pulls)
 (i.e., co-authors/co-editors) invited!
+
+Use [xml2rfc](http://xml2rfc.ietf.org/) to convert the XML source.
