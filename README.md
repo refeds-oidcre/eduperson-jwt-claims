@@ -12,9 +12,9 @@ It is being developed in the REFEDS
 [OpenID Connect for Research and Education Working Group](https://wiki.refeds.org/x/TYMY).
 Join the [mailing list](https://lists.refeds.org/sympa/info/oidcre).
 
-[Issues](https://github.com/jbasney/eduperson-jwt-claims/issues)
+[Issues](https://github.com/refeds-oidcre/eduperson-jwt-claims/issues)
 and
-[pull requests](https://github.com/jbasney/eduperson-jwt-claims/pulls)
+[pull requests](https://github.com/refeds-oidcre/eduperson-jwt-claims/pulls)
 (i.e., co-authors/co-editors) invited!
 
 Use [xml2rfc](http://xml2rfc.ietf.org/) to convert the XML source.
