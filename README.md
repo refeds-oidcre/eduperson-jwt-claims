@@ -18,3 +18,4 @@ and
 (i.e., co-authors/co-editors) invited!
 
 Use [xml2rfc](http://xml2rfc.ietf.org/) to convert the XML source.
+See https://refeds-oidcre.github.io/eduperson-jwt-claims for HTML snapshots from the [gh-pages](https://github.com/refeds-oidcre/eduperson-jwt-claims/tree/gh-pages) branch.
